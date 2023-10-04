@@ -1,2 +1,4 @@
 # Frontend
-Individual project with reference
+## Website Development Project
+- HTML, CSS, JavaScript
+- Individual project with reference
